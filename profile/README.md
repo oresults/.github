@@ -1,5 +1,5 @@
 ## OResults 🏃
-_powered by BlueBox_
+_powered by Bluebox_
 
 ---
 ### mission 🌠
